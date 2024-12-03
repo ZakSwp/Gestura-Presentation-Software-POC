@@ -5,10 +5,10 @@ A simple POC of the Gestura Presentation Software.
 
 This project was created by:
 
-Zakaria Mhemed https://www.linkedin.com/in/zakaria-mhemed-a29933217/
-Hamdane Brini https://www.linkedin.com/in/hamden-brini-42852b30b/
-Nacef M'barek https://www.linkedin.com/in/nacef-mbarek-151946291/
-Omar Kammoun https://www.linkedin.com/in/omar-kammoun-903979295/
+Zakaria Mhemed https://www.linkedin.com/in/zakaria-mhemed-a29933217/  <br/>
+Hamdane Brini https://www.linkedin.com/in/hamden-brini-42852b30b/  <br/>
+Nacef M'barek https://www.linkedin.com/in/nacef-mbarek-151946291/  <br/>
+Omar Kammoun https://www.linkedin.com/in/omar-kammoun-903979295/  <br/>
 
 
 ## How To Run:
